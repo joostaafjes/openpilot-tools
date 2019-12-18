@@ -92,7 +92,7 @@ Setup
 
     - build tools
         ```bash
-        brew install autoconf automake libtool llvm pkg-config
+        brew install autoconf automake libtool llvm pkg-config cmake
         ```
 
     - libarchive-dev (tested with 3.3.3)
